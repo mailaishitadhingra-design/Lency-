@@ -10,13 +10,14 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
+    "vite": "latest"
   },
   "devDependencies": {
-    "tailwindcss": "latest",
-    "@tailwindcss/vite": "latest"
+    "@tailwindcss/vite": "latest",
+    "tailwindcss": "latest"
   }
 }
