@@ -51,7 +51,7 @@ def seed_recipients():
                 ))
 
         db.commit()
-    finally:
+                
         db.close()
 
 

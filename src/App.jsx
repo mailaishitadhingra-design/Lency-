@@ -291,7 +291,7 @@ export default function App() {
 
       <main className="content">
         {screen === "home" && <>
-          <div className="hello"><span>A little more clarity, every payment.</span><h1>Hello, Ananya <span className="avatar">AN</span></h1></div>
+          <div className="hello"><span>A little more clarity, every payment.</span><h1>WELCOME BACK <span className="avatar">AN</span></h1></div>
           <section className="account-card"><div className="account-top"><span>YOUR DEMO ACCOUNT</span><WalletCards size={12}/></div><h2>Ready for a test run</h2><p>Demo UPI account ••••4821</p><small><LockKeyhole size={10}/> A prototype space. No real money.</small></section>
           <button className="purple-button" onClick={scan}><ScanLine size={14}/> Scan & pay</button>
           <p className="caption centered">Start with the demo QR · Screen 2</p>

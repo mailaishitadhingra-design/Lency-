@@ -1,2 +1,8 @@
 
 node_modules/
+
+# Local database and Python environment
+backend/lency.db
+backend/venv/
+backend/__pycache__/
+
